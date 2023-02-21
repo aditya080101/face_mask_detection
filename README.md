@@ -1,11 +1,8 @@
-# Face Mask😷 Detection using TensorFlow {An Amazing Project}
+# Face Mask😷 Detection
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## [Subscribe my channel on YoTube for Tutorials](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
 
 ## Drive link updated
 [inference_graph.zip](https://drive.google.com/file/d/1vrNTdcGNq3QxTqgmSc-A_Khjvoeq9mwM/view?usp=sharing)
@@ -41,6 +38,3 @@
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result5.jpg">
 
 ## Note:- Images Taken from Internet for just testing purpose.
-
-
-## Just follow☝️ me and Star⭐ my repository 
